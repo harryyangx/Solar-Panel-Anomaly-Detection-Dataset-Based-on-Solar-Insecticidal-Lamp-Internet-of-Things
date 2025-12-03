@@ -1,0 +1,1 @@
+# Solar-Panel-Anomaly-Detection-Dataset-Based-on-Solar-Insecticidal-Lamp-Internet-of-Things
